@@ -8,7 +8,7 @@ All experience levels and contribution types are welcome. Check existing GitHub 
 2. **Claim it.** Comment on the issue and confirm an owner so others know who is working on it. Choose a realistic target date together if useful; do not assign someone without their agreement.
 3. **Create a branch.** A branch is a separate line of work that lets you edit without changing the shared `main` branch. Use a short name such as `docs/kickoff-notes` or `task/short-description`.
 4. **Implement.** Make a focused change. A **commit** is a named snapshot of your changes; use a brief message explaining what changed.
-5. **Verify.** Read and check documentation, inspect asset permissions, or use the project's agreed code checks and playtests once available. Record what you actually checked and anything you could not check.
+5. **Verify.** Run `python -m unittest discover -s tests -v` from the repository root; see [automated checks](docs/TESTING.md). Also read documentation, inspect asset permissions, and use appropriate code checks/playtests once available. Record what you actually checked and anything you could not check. GitHub runs the suite on PRs; fix failures before merging.
 6. **Open a pull request (PR).** A PR asks to bring your branch into `main`. Link the issue and explain the change and verification using the PR template.
 7. **Review.** Another person reads or tries the change and asks questions or requests fixes. Initially Micah Kelley and Joe Faith review merges; agreed future maintainers can share this responsibility.
 8. **Merge.** After review and any fixes, a maintainer combines the branch into `main` and closes the completed issue. Avoid direct pushes to `main` where feasible.

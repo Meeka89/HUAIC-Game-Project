@@ -33,6 +33,7 @@ No GitHub account or development tools are needed to participate in kickoff plan
 - [Communication and reviewed AI summaries](docs/COMMUNICATION.md)
 - [Meeting notes template](docs/meetings/TEMPLATE.md)
 - [Repository publishing and recommended settings](docs/REPOSITORY_SETUP.md)
+- [Automated checks and required PR status](docs/TESTING.md)
 
 Repository: [Meeka89/HUAIC-Game-Project](https://github.com/Meeka89/HUAIC-Game-Project). Discord invitation: **TBD**, subject to member confirmation. Announcement email/contact details: **TBD**. Next meeting date: **TBD**.
 
