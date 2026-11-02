@@ -2,6 +2,8 @@
 
 These are **drafts, not live GitHub issues or approved assignments**. All owners are unassigned and all target dates are TBD. Micah and Joe are the initial maintainers, but that does not assign these tasks to them. Review each draft and check for duplicates before creating an issue. Participants may volunteer for small parts.
 
+**November 2 update:** The [meeting summary](meetings/2026-11-02.md) records a leading fantasy college-town proposal and the confirmed room, movement, and NPC conversation prototype. The full concept and engine remain unfinalized. These tasks are not automatically complete; use the new notes as input. Implementation drafts are in [PROTOTYPE.md](PROTOTYPE.md#proposed-task-breakdown).
+
 ## 1. Agree on the game concept and smallest playable version
 
 - **Context:** No game has been chosen. Start with kickoff pitches and the small single-player constraint.

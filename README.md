@@ -10,13 +10,15 @@ We expect about 10 participants with mixed experience. Programming, design, writ
 
 ## Current status
 
-We are planning. **Game concept: undecided. Engine: undecided. Setup and run instructions: pending engine selection.** There is no playable game or build yet. Multiplayer is outside the initial scope. Steam is a possible stretch goal; the first release decision follows a playable, tested game.
+We are planning. The leading concept is a **Stardew Valley-inspired fantasy college-town game**, where classes and conversations could help the player face dragons while working toward graduation. The full concept and mechanics remain proposals. **Engine: undecided; Godot is a candidate. Setup and run instructions: pending engine selection.**
+
+The confirmed first prototype is **one room, player movement, and one NPC with a short conversation that can be opened and closed**. Placeholder art is sufficient. See the [November 2 meeting summary](docs/meetings/2026-11-02.md) and [prototype scope and task drafts](docs/PROTOTYPE.md). There is no playable game or build yet. Multiplayer is outside the initial scope. Steam is a possible stretch goal; the first release decision follows a playable, tested game.
 
 Micah Kelley (club president) and Joe Faith (faculty advisor) are the initial maintainers and merge reviewers. Students can gradually share ownership and maintenance so progress does not depend on one person.
 
 ## Start here
 
-- Everyone: read [confirmed decisions](docs/DECISIONS.md) and the [kickoff agenda](docs/meetings/KICKOFF_AGENDA.md). The goal by the next meeting is a reviewed game plan, not necessarily a prototype.
+- Everyone: read [confirmed decisions](docs/DECISIONS.md) and the [meeting summary](docs/meetings/2026-11-02.md). The goal by the next meeting remains a reviewed game plan, not necessarily a prototype.
 - Design, writing, and research: help fill the [game design](docs/GAME_DESIGN.md) through the [draft planning tasks](docs/INITIAL_TASKS.md).
 - Art and music: discuss the game's needs before creating assets; record sources and permissions in [assets and credits](docs/ASSETS_AND_CREDITS.md).
 - Programming: follow [contributing](CONTRIBUTING.md); implementation waits for agreed scope and engine selection.
