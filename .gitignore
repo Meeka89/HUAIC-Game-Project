@@ -1,0 +1,24 @@
+# Local secrets (keep real credentials outside the repository)
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+
+# Temporary files and local editor/OS clutter
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+
+# Raw meeting material belongs outside the repository; this is only a guardrail
+private/
+recordings/
+transcripts/
+
+# Add engine-specific exclusions only after engine selection
