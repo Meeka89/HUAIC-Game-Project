@@ -18,9 +18,22 @@ The following are confirmed by Micah Kelley's supplied project brief. They are n
 
 ## Still open
 
-Game concept, engine, controls, visual/audio direction, initial platform, detailed scope, and run instructions are undecided. A Minecraft-style game with magic was only a hypothetical example, not an approved game idea.
+The leading concept is a Stardew Valley-inspired fantasy college-town game, with classes and conversations supplying knowledge that could help the player defeat dragons and graduate. This direction and its broader mechanics remain proposals; see the [November 2 summary](meetings/2026-11-02.md). Engine, controls, visual/audio direction, initial platform, full-game scope, and run instructions remain undecided. Godot is a candidate. A Minecraft-style game with magic was only a hypothetical example, not an approved game idea.
 
 Discord use needs member confirmation; invitation and email/contact details are TBD. Additional volunteers, task owners, and target dates are unassigned unless someone explicitly agrees. Repository licensing, contributor ownership, and any revenue terms remain unresolved.
+
+## D001 First prototype scope
+
+- **Status:** Agreed.
+- **Decision:** One room with boundaries; player movement; one NPC; an interaction button that opens a short conversation; and a way to close it and resume moving. Placeholder art is sufficient.
+- **Completion:** Another person can launch the prototype, walk around, talk to the NPC, close the dialogue, and continue moving without getting stuck.
+- **Reason:** Establish movement and conversation before attempting class systems, semesters, dragons, quests, or progression.
+- **Confirmed by:** Micah Kelley, explicitly confirming inclusion of NPC interaction after proposing the room prototype.
+- **Date confirmed:** November 2, 2026.
+- **Source:** [Meeting summary](meetings/2026-11-02.md) and Micah's authorization to publish these notes. No separate vote or review by other members is claimed.
+- **Supersedes:** None. This adds prototype scope; it does not choose an engine or approve the full game concept.
+
+See [PROTOTYPE.md](PROTOTYPE.md) for scope and unassigned task drafts.
 
 ## Recording future decisions
 
