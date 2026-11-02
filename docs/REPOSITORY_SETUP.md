@@ -16,4 +16,4 @@ Repository: [Meeka89/HUAIC-Game-Project](https://github.com/Meeka89/HUAIC-Game-P
 - Tag issues by contribution type (for example, code, design, writing, art, music, docs, research, playtesting) and difficulty (small, medium, larger).
 - Rule availability and enforcement depend on repository configuration, visibility, and GitHub plan. Verify what is available before claiming protection is enabled.
 
-Keep this lightweight. CI, bots, automated builds, and Discord integrations can wait until the team has an agreed need.
+The repository now includes a small automated PR test suite at Micah's request. Enable **Require status checks to pass before merging** for `main` and select **Repository checks** once it has run; see [TESTING.md](TESTING.md). This documentation does not claim that setting is configured. Bots, automated game builds, and Discord integrations can wait until the team has an agreed need.

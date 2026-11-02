@@ -35,6 +35,14 @@ Discord use needs member confirmation; invitation and email/contact details are 
 
 See [PROTOTYPE.md](PROTOTYPE.md) for scope and unassigned task drafts.
 
+## D002 Repository tests on pull requests
+
+- **Status:** Agreed by Micah Kelley on November 2, 2026 through his request for a repository test suite that passes for PRs.
+- **Decision:** Add a small Python standard-library suite for current documentation links and issue-template metadata, and a GitHub Actions check on PRs and pushes. Retain the existing PR/task/bug/idea templates. Engine-specific game tests follow engine selection and implementation.
+- **Reason:** Give contributors repeatable checks and make failures visible before merging.
+- **Supersedes:** The initial setup's exclusion of CI and a documentation test suite, for these repository checks only. Engine choice, game implementation, bots, and build automation remain outside this change.
+- **Enforcement:** A maintainer must require the **Repository checks** status in `main` protection; adding the workflow does not configure that setting. See [TESTING.md](TESTING.md).
+
 ## Recording future decisions
 
 Add a short entry only after agreement. Keep proposals and unresolved questions in the relevant issue or meeting note until then.

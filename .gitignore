@@ -22,3 +22,7 @@ recordings/
 transcripts/
 
 # Add engine-specific exclusions only after engine selection
+
+# Python repository-check caches
+__pycache__/
+*.py[cod]

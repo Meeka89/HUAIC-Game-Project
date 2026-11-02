@@ -10,6 +10,8 @@ What changed and why?
 
 What checks or playtests actually ran, with results? State anything not checked.
 
+- [ ] Run `python -m unittest discover -s tests -v` or explain why it could not run locally. GitHub's **Repository checks** should pass before merge.
+
 ## Screenshots and documentation
 
 Include relevant screenshots and documentation updates, or say not applicable.
